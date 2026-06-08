@@ -1,0 +1,347 @@
+[
+  {
+    "id": 1,
+    "year": 2023,
+    "make": "Tesla",
+    "model": "Model 3",
+    "trim": "Long Range",
+    "price": 52990,
+    "mileage": 12450,
+    "vin": "5YJ3E1EA9LF123456",
+    "stock": "STK-2023-001",
+    "description": "Beautiful electric sedan with advanced autopilot features. One owner, clean title, excellent condition.",
+    "photos": [
+      "https://images.unsplash.com/photo-1560958089-b8a63dd53c55?w=800",
+      "https://images.unsplash.com/photo-1550355291-bbee04a92027?w=800",
+      "https://images.unsplash.com/photo-1617469767537-b85cab00c77b?w=800"
+    ],
+    "seller": {
+      "name": "Elite Auto Sales",
+      "phone": "(555) 123-4567",
+      "email": "sales@eliteautos.com",
+      "address": "1234 Main Street, Downtown"
+    }
+  },
+  {
+    "id": 2,
+    "year": 2022,
+    "make": "Honda",
+    "model": "Civic",
+    "trim": "EX",
+    "price": 24995,
+    "mileage": 28340,
+    "vin": "2HGCV12342H123456",
+    "stock": "STK-2022-002",
+    "description": "Reliable Honda Civic with great fuel economy. Recently serviced, new tires, ready to drive.",
+    "photos": [
+      "https://images.unsplash.com/photo-1590362891990-f8023379867c?w=800",
+      "https://images.unsplash.com/photo-1553882900-f2b06423ff1d?w=800",
+      "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800"
+    ],
+    "seller": {
+      "name": "Quality Cars Inc",
+      "phone": "(555) 234-5678",
+      "email": "info@qualitycars.com",
+      "address": "5678 Commerce Ave, Business Park"
+    }
+  },
+  {
+    "id": 3,
+    "year": 2024,
+    "make": "Ford",
+    "model": "F-150",
+    "trim": "XLT",
+    "price": 48500,
+    "mileage": 5230,
+    "vin": "1FTFW1ET5DFC12345",
+    "stock": "STK-2024-003",
+    "description": "Powerful pickup truck, perfect for work or weekend adventures. Well-maintained, accident-free.",
+    "photos": [
+      "https://images.unsplash.com/photo-1533473359331-35b1443cdc15?w=800",
+      "https://images.unsplash.com/photo-1609708536965-59a33919ba5c?w=800",
+      "https://images.unsplash.com/photo-1581524133162-7ac5c92b8a23?w=800"
+    ],
+    "seller": {
+      "name": "Truck Masters",
+      "phone": "(555) 345-6789",
+      "email": "sales@truckmasters.com",
+      "address": "9012 Industrial Blvd, Warehouse District"
+    }
+  },
+  {
+    "id": 4,
+    "year": 2021,
+    "make": "Toyota",
+    "model": "Camry",
+    "trim": "LE",
+    "price": 22450,
+    "mileage": 42890,
+    "vin": "4T1B11HK4MU123456",
+    "stock": "STK-2021-004",
+    "description": "Dependable midsize sedan with excellent reliability history. Perfect commuter vehicle.",
+    "photos": [
+      "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800",
+      "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800",
+      "https://images.unsplash.com/photo-1533473359331-35b1443cdc15?w=800"
+    ],
+    "seller": {
+      "name": "Prestige Auto Group",
+      "phone": "(555) 456-7890",
+      "email": "contact@prestigeauto.com",
+      "address": "3456 Executive Drive, Tech Center"
+    }
+  },
+  {
+    "id": 5,
+    "year": 2023,
+    "make": "BMW",
+    "model": "328i",
+    "trim": "xDrive",
+    "price": 45990,
+    "mileage": 8760,
+    "vin": "WBA43BH08P7123456",
+    "stock": "STK-2023-005",
+    "description": "Luxury performance sedan with premium features and leather interior. Meticulously maintained.",
+    "photos": [
+      "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800",
+      "https://images.unsplash.com/photo-1609708536965-59a33919ba5c?w=800",
+      "https://images.unsplash.com/photo-1590362891990-f8023379867c?w=800"
+    ],
+    "seller": {
+      "name": "Luxury Motors",
+      "phone": "(555) 567-8901",
+      "email": "sales@luxurymotors.com",
+      "address": "7890 Prestige Lane, Premium District"
+    }
+  },
+  {
+    "id": 6,
+    "year": 2022,
+    "make": "Chevrolet",
+    "model": "Silverado",
+    "trim": "LT",
+    "price": 39800,
+    "mileage": 35670,
+    "vin": "3GCUYDEN0MG123456",
+    "stock": "STK-2022-006",
+    "description": "Heavy-duty pickup truck with towing package and comfortable cabin. Service records available.",
+    "photos": [
+      "https://images.unsplash.com/photo-1581524133162-7ac5c92b8a23?w=800",
+      "https://images.unsplash.com/photo-1533473359331-35b1443cdc15?w=800",
+      "https://images.unsplash.com/photo-1609708536965-59a33919ba5c?w=800"
+    ],
+    "seller": {
+      "name": "General Auto Dealers",
+      "phone": "(555) 678-9012",
+      "email": "info@generalauto.com",
+      "address": "2345 Grand Avenue, North Side"
+    }
+  },
+  {
+    "id": 7,
+    "year": 2024,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "trim": "SEL",
+    "price": 20990,
+    "mileage": 2145,
+    "vin": "5NPL4H1D4RH123456",
+    "stock": "STK-2024-007",
+    "description": "Brand new Hyundai with factory warranty. Modern design, excellent fuel economy, great value.",
+    "photos": [
+      "https://images.unsplash.com/photo-1590362891990-f8023379867c?w=800",
+      "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800",
+      "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800"
+    ],
+    "seller": {
+      "name": "Value Auto Sales",
+      "phone": "(555) 789-0123",
+      "email": "sales@valueauto.com",
+      "address": "6789 Savings Street, Downtown"
+    }
+  },
+  {
+    "id": 8,
+    "year": 2021,
+    "make": "Mazda",
+    "model": "CX-5",
+    "trim": "Preferred",
+    "price": 26750,
+    "mileage": 38450,
+    "vin": "JM2BL2SA3M0123456",
+    "stock": "STK-2021-008",
+    "description": "Stylish compact SUV with responsive handling and premium interior. All-wheel drive available.",
+    "photos": [
+      "https://images.unsplash.com/photo-1533473359331-35b1443cdc15?w=800",
+      "https://images.unsplash.com/photo-1609708536965-59a33919ba5c?w=800",
+      "https://images.unsplash.com/photo-1581524133162-7ac5c92b8a23?w=800"
+    ],
+    "seller": {
+      "name": "Modern Motors",
+      "phone": "(555) 890-1234",
+      "email": "contact@modernmotors.com",
+      "address": "8901 Innovation Drive, Tech Park"
+    }
+  },
+  {
+    "id": 9,
+    "year": 2023,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "trim": "Sport",
+    "price": 38450,
+    "mileage": 15680,
+    "vin": "1J4AA4S10LP123456",
+    "stock": "STK-2023-009",
+    "description": "Off-road ready SUV with removable doors and top. Adventure awaits! Excellent condition.",
+    "photos": [
+      "https://images.unsplash.com/photo-1581524133162-7ac5c92b8a23?w=800",
+      "https://images.unsplash.com/photo-1533473359331-35b1443cdc15?w=800",
+      "https://images.unsplash.com/photo-1609708536965-59a33919ba5c?w=800"
+    ],
+    "seller": {
+      "name": "Adventure Auto",
+      "phone": "(555) 901-2345",
+      "email": "sales@adventureauto.com",
+      "address": "4567 Outdoor Road, Adventure Zone"
+    }
+  },
+  {
+    "id": 10,
+    "year": 2020,
+    "make": "Subaru",
+    "model": "Outback",
+    "trim": "Premium",
+    "price": 24200,
+    "mileage": 52340,
+    "vin": "4S4BSENC8L3123456",
+    "stock": "STK-2020-010",
+    "description": "All-wheel drive wagon with excellent ground clearance. Perfect for outdoor enthusiasts.",
+    "photos": [
+      "https://images.unsplash.com/photo-1590362891990-f8023379867c?w=800",
+      "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800",
+      "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800"
+    ],
+    "seller": {
+      "name": "Reliable Cars Co",
+      "phone": "(555) 012-3456",
+      "email": "sales@reliablecars.com",
+      "address": "1122 Trust Boulevard, Midtown"
+    }
+  },
+  {
+    "id": 11,
+    "year": 2023,
+    "make": "Audi",
+    "model": "A4",
+    "trim": "Premium Plus",
+    "price": 52100,
+    "mileage": 11290,
+    "vin": "WAUENAF44N1123456",
+    "stock": "STK-2023-011",
+    "description": "German engineering at its finest. Luxury performance sedan with cutting-edge technology.",
+    "photos": [
+      "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800",
+      "https://images.unsplash.com/photo-1609708536965-59a33919ba5c?w=800",
+      "https://images.unsplash.com/photo-1581524133162-7ac5c92b8a23?w=800"
+    ],
+    "seller": {
+      "name": "German Auto Imports",
+      "phone": "(555) 111-2222",
+      "email": "sales@germanauto.com",
+      "address": "9999 Prestige Avenue, Executive Park"
+    }
+  },
+  {
+    "id": 12,
+    "year": 2022,
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "trim": "S",
+    "price": 19450,
+    "mileage": 33890,
+    "vin": "3VWF21C51NM123456",
+    "stock": "STK-2022-012",
+    "description": "Efficient sedan with European styling. Great for daily commuting and weekend drives.",
+    "photos": [
+      "https://images.unsplash.com/photo-1590362891990-f8023379867c?w=800",
+      "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800",
+      "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800"
+    ],
+    "seller": {
+      "name": "Euro Motors",
+      "phone": "(555) 222-3333",
+      "email": "contact@euromotors.com",
+      "address": "3333 European Way, Commerce Center"
+    }
+  },
+  {
+    "id": 13,
+    "year": 2024,
+    "make": "Kia",
+    "model": "Sportage",
+    "trim": "EX",
+    "price": 31500,
+    "mileage": 1200,
+    "vin": "5XYPK4A39LG123456",
+    "stock": "STK-2024-013",
+    "description": "Modern SUV with spacious interior and latest safety features. Almost brand new!",
+    "photos": [
+      "https://images.unsplash.com/photo-1533473359331-35b1443cdc15?w=800",
+      "https://images.unsplash.com/photo-1609708536965-59a33919ba5c?w=800",
+      "https://images.unsplash.com/photo-1581524133162-7ac5c92b8a23?w=800"
+    ],
+    "seller": {
+      "name": "Smart Auto Group",
+      "phone": "(555) 333-4444",
+      "email": "sales@smartauto.com",
+      "address": "7777 Progress Lane, Innovation District"
+    }
+  },
+  {
+    "id": 14,
+    "year": 2021,
+    "make": "Nissan",
+    "model": "Altima",
+    "trim": "SL",
+    "price": 21800,
+    "mileage": 44560,
+    "vin": "1N4BL4CV1MN123456",
+    "stock": "STK-2021-014",
+    "description": "Smooth midsize sedan with comfort features and good fuel economy. Well-maintained.",
+    "photos": [
+      "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800",
+      "https://images.unsplash.com/photo-1590362891990-f8023379867c?w=800",
+      "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800"
+    ],
+    "seller": {
+      "name": "Next Gen Motors",
+      "phone": "(555) 444-5555",
+      "email": "info@nextgenmotors.com",
+      "address": "5555 Forward Street, Future Plaza"
+    }
+  },
+  {
+    "id": 15,
+    "year": 2023,
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "trim": "C 300",
+    "price": 58900,
+    "mileage": 9450,
+    "vin": "W1K6G7DB1NR123456",
+    "stock": "STK-2023-015",
+    "description": "Premium luxury sedan with unmatched elegance and performance. Immaculate condition.",
+    "photos": [
+      "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800",
+      "https://images.unsplash.com/photo-1609708536965-59a33919ba5c?w=800",
+      "https://images.unsplash.com/photo-1581524133162-7ac5c92b8a23?w=800"
+    ],
+    "seller": {
+      "name": "Premier Luxury Cars",
+      "phone": "(555) 555-6666",
+      "email": "sales@premierluxury.com",
+      "address": "8888 Crown Boulevard, Elite Quarter"
+    }
+  }
+]
