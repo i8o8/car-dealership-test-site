@@ -11,9 +11,9 @@
     "stock": "STK-2023-001",
     "description": "Beautiful electric sedan with advanced autopilot features. One owner, clean title, excellent condition.",
     "photos": [
-      "https://images.unsplash.com/photo-1560958089-b8a63dd53c55?w=800",
-      "https://images.unsplash.com/photo-1550355291-bbee04a92027?w=800",
-      "https://images.unsplash.com/photo-1617469767537-b85cab00c77b?w=800"
+      "/images/vehicles/car-1.jpg",
+      "/images/vehicles/car-1.jpg",
+      "/images/vehicles/car-1.jpg"
     ],
     "seller": {
       "name": "Elite Auto Sales",
@@ -34,9 +34,9 @@
     "stock": "STK-2022-002",
     "description": "Reliable Honda Civic with great fuel economy. Recently serviced, new tires, ready to drive.",
     "photos": [
-      "https://images.unsplash.com/photo-1590362891990-f8023379867c?w=800",
-      "https://images.unsplash.com/photo-1553882900-f2b06423ff1d?w=800",
-      "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800"
+      "/images/vehicles/car-2.jpg",
+      "/images/vehicles/car-2.jpg",
+      "/images/vehicles/car-2.jpg"
     ],
     "seller": {
       "name": "Quality Cars Inc",
@@ -57,9 +57,9 @@
     "stock": "STK-2024-003",
     "description": "Powerful pickup truck, perfect for work or weekend adventures. Well-maintained, accident-free.",
     "photos": [
-      "https://images.unsplash.com/photo-1533473359331-35b1443cdc15?w=800",
-      "https://images.unsplash.com/photo-1609708536965-59a33919ba5c?w=800",
-      "https://images.unsplash.com/photo-1581524133162-7ac5c92b8a23?w=800"
+      "/images/vehicles/car-3.jpg",
+      "/images/vehicles/car-3.jpg",
+      "/images/vehicles/car-3.jpg"
     ],
     "seller": {
       "name": "Truck Masters",
@@ -80,9 +80,9 @@
     "stock": "STK-2021-004",
     "description": "Dependable midsize sedan with excellent reliability history. Perfect commuter vehicle.",
     "photos": [
-      "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800",
-      "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800",
-      "https://images.unsplash.com/photo-1533473359331-35b1443cdc15?w=800"
+      "/images/vehicles/car-4.jpg",
+      "/images/vehicles/car-4.jpg",
+      "/images/vehicles/car-4.jpg"
     ],
     "seller": {
       "name": "Prestige Auto Group",
@@ -103,9 +103,9 @@
     "stock": "STK-2023-005",
     "description": "Luxury performance sedan with premium features and leather interior. Meticulously maintained.",
     "photos": [
-      "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800",
-      "https://images.unsplash.com/photo-1609708536965-59a33919ba5c?w=800",
-      "https://images.unsplash.com/photo-1590362891990-f8023379867c?w=800"
+      "/images/vehicles/car-5.jpg",
+      "/images/vehicles/car-5.jpg",
+      "/images/vehicles/car-5.jpg"
     ],
     "seller": {
       "name": "Luxury Motors",
@@ -126,9 +126,9 @@
     "stock": "STK-2022-006",
     "description": "Heavy-duty pickup truck with towing package and comfortable cabin. Service records available.",
     "photos": [
-      "https://images.unsplash.com/photo-1581524133162-7ac5c92b8a23?w=800",
-      "https://images.unsplash.com/photo-1533473359331-35b1443cdc15?w=800",
-      "https://images.unsplash.com/photo-1609708536965-59a33919ba5c?w=800"
+      "/images/vehicles/car-6.jpg",
+      "/images/vehicles/car-6.jpg",
+      "/images/vehicles/car-6.jpg"
     ],
     "seller": {
       "name": "General Auto Dealers",
@@ -149,9 +149,9 @@
     "stock": "STK-2024-007",
     "description": "Brand new Hyundai with factory warranty. Modern design, excellent fuel economy, great value.",
     "photos": [
-      "https://images.unsplash.com/photo-1590362891990-f8023379867c?w=800",
-      "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800",
-      "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800"
+      "/images/vehicles/car-7.jpg",
+      "/images/vehicles/car-7.jpg",
+      "/images/vehicles/car-7.jpg"
     ],
     "seller": {
       "name": "Value Auto Sales",
@@ -172,9 +172,9 @@
     "stock": "STK-2021-008",
     "description": "Stylish compact SUV with responsive handling and premium interior. All-wheel drive available.",
     "photos": [
-      "https://images.unsplash.com/photo-1533473359331-35b1443cdc15?w=800",
-      "https://images.unsplash.com/photo-1609708536965-59a33919ba5c?w=800",
-      "https://images.unsplash.com/photo-1581524133162-7ac5c92b8a23?w=800"
+      "/images/vehicles/car-8.jpg",
+      "/images/vehicles/car-8.jpg",
+      "/images/vehicles/car-8.jpg"
     ],
     "seller": {
       "name": "Modern Motors",
@@ -195,9 +195,9 @@
     "stock": "STK-2023-009",
     "description": "Off-road ready SUV with removable doors and top. Adventure awaits! Excellent condition.",
     "photos": [
-      "https://images.unsplash.com/photo-1581524133162-7ac5c92b8a23?w=800",
-      "https://images.unsplash.com/photo-1533473359331-35b1443cdc15?w=800",
-      "https://images.unsplash.com/photo-1609708536965-59a33919ba5c?w=800"
+      "/images/vehicles/car-9.jpg",
+      "/images/vehicles/car-9.jpg",
+      "/images/vehicles/car-9.jpg"
     ],
     "seller": {
       "name": "Adventure Auto",
@@ -218,9 +218,9 @@
     "stock": "STK-2020-010",
     "description": "All-wheel drive wagon with excellent ground clearance. Perfect for outdoor enthusiasts.",
     "photos": [
-      "https://images.unsplash.com/photo-1590362891990-f8023379867c?w=800",
-      "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800",
-      "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800"
+      "/images/vehicles/car-10.jpg",
+      "/images/vehicles/car-10.jpg",
+      "/images/vehicles/car-10.jpg"
     ],
     "seller": {
       "name": "Reliable Cars Co",
@@ -241,9 +241,9 @@
     "stock": "STK-2023-011",
     "description": "German engineering at its finest. Luxury performance sedan with cutting-edge technology.",
     "photos": [
-      "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800",
-      "https://images.unsplash.com/photo-1609708536965-59a33919ba5c?w=800",
-      "https://images.unsplash.com/photo-1581524133162-7ac5c92b8a23?w=800"
+      "/images/vehicles/car-11.jpg",
+      "/images/vehicles/car-11.jpg",
+      "/images/vehicles/car-11.jpg"
     ],
     "seller": {
       "name": "German Auto Imports",
@@ -264,9 +264,9 @@
     "stock": "STK-2022-012",
     "description": "Efficient sedan with European styling. Great for daily commuting and weekend drives.",
     "photos": [
-      "https://images.unsplash.com/photo-1590362891990-f8023379867c?w=800",
-      "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800",
-      "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800"
+      "/images/vehicles/car-12.jpg",
+      "/images/vehicles/car-12.jpg",
+      "/images/vehicles/car-12.jpg"
     ],
     "seller": {
       "name": "Euro Motors",
@@ -287,9 +287,9 @@
     "stock": "STK-2024-013",
     "description": "Modern SUV with spacious interior and latest safety features. Almost brand new!",
     "photos": [
-      "https://images.unsplash.com/photo-1533473359331-35b1443cdc15?w=800",
-      "https://images.unsplash.com/photo-1609708536965-59a33919ba5c?w=800",
-      "https://images.unsplash.com/photo-1581524133162-7ac5c92b8a23?w=800"
+      "/images/vehicles/car-13.jpg",
+      "/images/vehicles/car-13.jpg",
+      "/images/vehicles/car-13.jpg"
     ],
     "seller": {
       "name": "Smart Auto Group",
@@ -310,9 +310,9 @@
     "stock": "STK-2021-014",
     "description": "Smooth midsize sedan with comfort features and good fuel economy. Well-maintained.",
     "photos": [
-      "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800",
-      "https://images.unsplash.com/photo-1590362891990-f8023379867c?w=800",
-      "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800"
+      "/images/vehicles/car-14.jpg",
+      "/images/vehicles/car-14.jpg",
+      "/images/vehicles/car-14.jpg"
     ],
     "seller": {
       "name": "Next Gen Motors",
@@ -333,9 +333,9 @@
     "stock": "STK-2023-015",
     "description": "Premium luxury sedan with unmatched elegance and performance. Immaculate condition.",
     "photos": [
-      "https://images.unsplash.com/photo-1552820728-8ac41f1ce891?w=800",
-      "https://images.unsplash.com/photo-1609708536965-59a33919ba5c?w=800",
-      "https://images.unsplash.com/photo-1581524133162-7ac5c92b8a23?w=800"
+      "/images/vehicles/car-15.jpg",
+      "/images/vehicles/car-15.jpg",
+      "/images/vehicles/car-15.jpg"
     ],
     "seller": {
       "name": "Premier Luxury Cars",
